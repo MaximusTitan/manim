@@ -32,7 +32,7 @@ async def generate_animation(manim_code: ManimCode):
             raise HTTPException(status_code=400, detail="Invalid Manim code")
 
         # Set permanent output directory
-        public_videos_dir = "C:/Work/nextjs-fastapi/public"
+        public_videos_dir = os.path.join(os.getcwd(), "public")
         video_output_dir = os.path.join(public_videos_dir, "videos", "1080p60")
         os.makedirs(video_output_dir, exist_ok=True)
         config.media_dir = public_videos_dir

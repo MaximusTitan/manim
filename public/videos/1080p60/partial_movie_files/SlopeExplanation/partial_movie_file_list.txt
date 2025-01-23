@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Work/nextjs-fastapi/public/videos/1080p60/partial_movie_files/SlopeExplanation/3977891868_926915907_223132457.mp4'
-file 'file:C:/Work/nextjs-fastapi/public/videos/1080p60/partial_movie_files/SlopeExplanation/2852726489_2745516110_2568674268.mp4'
-file 'file:C:/Work/nextjs-fastapi/public/videos/1080p60/partial_movie_files/SlopeExplanation/2852726489_958904099_243082966.mp4'
-file 'file:C:/Work/nextjs-fastapi/public/videos/1080p60/partial_movie_files/SlopeExplanation/2852726489_3532095466_2593443013.mp4'
-file 'file:C:/Work/nextjs-fastapi/public/videos/1080p60/partial_movie_files/SlopeExplanation/2852726489_3294516045_1372796337.mp4'
-file 'file:C:/Work/nextjs-fastapi/public/videos/1080p60/partial_movie_files/SlopeExplanation/2852726489_1410550480_1593790327.mp4'
-file 'file:C:/Work/nextjs-fastapi/public/videos/1080p60/partial_movie_files/SlopeExplanation/2852726489_887632083_811896490.mp4'
-file 'file:C:/Work/nextjs-fastapi/public/videos/1080p60/partial_movie_files/SlopeExplanation/2852726489_2844360058_3865109170.mp4'
