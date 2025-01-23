@@ -1,8 +1,11 @@
 {
   "builds": [
-    { "src": "Dockerfile", "use": "@vercel/docker" }
+    { "src": "api/index.py", "use": "@vercel/python" }
   ],
   "routes": [
     { "src": "/api/(.*)", "dest": "/api/index.py" }
-  ]
+  ],
+  "env": {
+    "PANGO_CAIRO_VERSION": "1.30.0"
+  }
 }
