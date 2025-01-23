@@ -21,7 +21,11 @@
       }
     ],
     "functions": {
-      "python_runtime": "python3.10"
+      "api/**/*.py": {
+        "runtime": "python3.10"
+      },
+      "api/*.py": {
+        "runtime": "python3.10"
+      }
     }
   }
-  
